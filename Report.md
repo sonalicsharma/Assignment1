@@ -1,7 +1,6 @@
 Google Drive
 ============
-Google Drive is a file storage and synchronization service provided by google, which enables user cloud storage, file sharing, and collaborative editings. 
-
+Google Drive is a very useful personal cloud storage from Google which allows users to store, share and collaborate files. 
 It is ideal for individual as well as group level course assignments or projects. The Google Drive viewer on the web allows to view many file formats like google docs, text files, MS Office, PDFs etc. Also, files in other format can be handled through third party apps. Owners could make file publicly visible or share privately with multiple users. Documents are automatically saved to Google’s servers to prevent any data loss. Also previous versions of the documents are maintained which could be rolled back if required. A group of people could collaborate on the same document together which makes it usable for non-programming courses. However it lacks some much needed features for source code management. Since all changes are immediately saved, one could not push stable version of code at will. Lack of explicit commits and syncs means a user could not commit related changes in multiple source files together which makes reviews and fixes difficult. Therefore, we cannot add any comments while committing and the reason of modification becomes unclear to programmers which leads to confusion. A programming course might require multiple persons work on same piece of code over a period of time with periodic review and merging. Since Google Drive does not have branch, fork or checkout features as in GitHub or SVN, it is not very useful for programming projects or courses.
 
 GitHub
